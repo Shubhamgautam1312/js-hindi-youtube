@@ -23,10 +23,10 @@ const mArr2 = new Array(1,2,3,4)
 // console.log(myArr.includes(4));
 // console.log(myArr.indexOf(4));
 
-// const newArr = myArr.join()
+//  const newArr = myArr.join()
 
-// console.log(myArr);
-// console.log( typeof newArr);
+//  console.log(myArr);
+//  console.log( typeof newArr);
 
 //   Slice,  Splice
 
